@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DairyDashboard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/DairyDashboard/static/js/main.cb758963.chunk.js",
+    "main.js.map": "/DairyDashboard/static/js/main.cb758963.chunk.js.map",
+    "runtime-main.js": "/DairyDashboard/static/js/runtime-main.a1858a7d.js",
+    "runtime-main.js.map": "/DairyDashboard/static/js/runtime-main.a1858a7d.js.map",
+    "static/js/2.a4c6a2de.chunk.js": "/DairyDashboard/static/js/2.a4c6a2de.chunk.js",
+    "static/js/2.a4c6a2de.chunk.js.map": "/DairyDashboard/static/js/2.a4c6a2de.chunk.js.map",
+    "static/js/3.b47c408a.chunk.js": "/DairyDashboard/static/js/3.b47c408a.chunk.js",
+    "static/js/3.b47c408a.chunk.js.map": "/DairyDashboard/static/js/3.b47c408a.chunk.js.map",
+    "index.html": "/DairyDashboard/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/DairyDashboard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a4c6a2de.chunk.js.LICENSE.txt": "/DairyDashboard/static/js/2.a4c6a2de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1858a7d.js",
+    "static/js/2.a4c6a2de.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cb758963.chunk.js"
+  ]
+}
